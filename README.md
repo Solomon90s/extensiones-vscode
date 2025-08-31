@@ -1,5 +1,5 @@
 # Extensiones-vscode
-Extensiones que utilizo en vscode [![Vscode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+Extensiones que utilizo en [![Vscode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 1. [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 2. [Spanish Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-spanish)
 3. [JavaScript and TypeScript Nightly](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next)
