@@ -17,3 +17,6 @@ extensiones que utilizo en vscode
 15. [Babel Javascript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
 16. [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 17. [Better DockerFile Syntax](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-dockerfile-syntax)
+18. [Terminal](https://marketplace.visualstudio.com/items?itemName=formulahendry.terminal)
+19. [TypeScript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero)
+20. [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
