@@ -1,4 +1,7 @@
 # Extensiones-vscode
+Exportar extensiones instaladas en vscode a un fichero de texto,
+
+```code --list-extensions > vscode-extensions.txt```
 
 ## 📦 Lista de extensiones de VS Code [![Vscode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
@@ -49,7 +52,7 @@
 45. [gist](https://marketplace.visualstudio.com/items?itemName=kenhowardpdx.vscode-gist)
 46. [codemetrics](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics)
 47. [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
-48. [ts-error-translator](https://marketplace.visualstudio.com/items?itemName=mattpocock.ts-error-translator)
+48. [Total TypeScript](https://marketplace.visualstudio.com/items?itemName=mattpocock.ts-error-translator)
 49. [template-string-converter](https://marketplace.visualstudio.com/items?itemName=meganrogge.template-string-converter)
 50. [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
 51. [git-graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
@@ -90,7 +93,7 @@
 86. [tailwind-fold](https://marketplace.visualstudio.com/items?itemName=stivo.tailwind-fold)
 87. [code-spell-checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 88. [code-spell-checker-spanish](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-spanish)
-89. [move-ts](https://marketplace.visualstudio.com/items?itemName=stringham.move-ts)
+89. [Move TS - Move TypeScript files and update relative imports](https://marketplace.visualstudio.com/items?itemName=stringham.move-ts)
 90. [stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
 91. [typescript-constructor-generator](https://marketplace.visualstudio.com/items?itemName=toanchivu.tcv-typescript-constructor-generator)
 92. [pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
@@ -103,7 +106,7 @@
 99. [todo-highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 100. [TypeScript's Getters and Setters Object Oriented Programming Style](https://marketplace.visualstudio.com/items?itemName=wilson-godoi.wg-getters-and-setters)
 101. [import-cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
-102. [javascriptsnippets](https://marketplace.visualstudio.com/items?itemName=xabikos.javascriptsnippets)
+102. [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.javascriptsnippets)
 103. [Pretty TypeScript Errors](https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors)
 104. [markdown-all-in-one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 105. [material-theme](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.material-theme)
