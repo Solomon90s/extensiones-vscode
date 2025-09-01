@@ -9,7 +9,7 @@
 5. [ng-template](https://marketplace.visualstudio.com/items?itemName=angular.ng-template)
 6. [file-nesting](https://marketplace.visualstudio.com/items?itemName=antfu.file-nesting)
 7. [tailwind-docs](https://marketplace.visualstudio.com/items?itemName=austenc.tailwind-docs)
-8. [jsoncrack-vscode](https://marketplace.visualstudio.com/items?itemName=aykutsarac.jsoncrack-vscode)
+8. [jsoncrack](https://marketplace.visualstudio.com/items?itemName=aykutsarac.jsoncrack-vscode)
 9. [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
 10. [W3C Web Validator](https://marketplace.visualstudio.com/items?itemName=celianriboulet.webvalidator)
 11. [npm-intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
