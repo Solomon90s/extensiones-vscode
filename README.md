@@ -9,7 +9,7 @@ Exportar extensiones instaladas en vscode a un fichero de texto,
 2. [codesnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
 3. [tailwind-documentation](https://marketplace.visualstudio.com/items?itemName=alfredbirk.tailwind-documentation)
 4. [Bootstrap 5 Quick Snippets](https://marketplace.visualstudio.com/items?itemName=anbuselvanrocky.bootstrap5-vscode)
-5. [ng-template](https://marketplace.visualstudio.com/items?itemName=angular.ng-template)
+5. [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=angular.ng-template)
 6. [file-nesting](https://marketplace.visualstudio.com/items?itemName=antfu.file-nesting)
 7. [tailwind-docs](https://marketplace.visualstudio.com/items?itemName=austenc.tailwind-docs)
 8. [jsoncrack](https://marketplace.visualstudio.com/items?itemName=aykutsarac.jsoncrack-vscode)
