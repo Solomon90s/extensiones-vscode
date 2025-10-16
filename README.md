@@ -88,7 +88,7 @@ Exportar extensiones instaladas en vscode a un fichero de texto,
 81. [javascript-booster](https://marketplace.visualstudio.com/items?itemName=sburg.vscode-javascript-booster)
 82. [trailing-spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces)
 83. [html-to-css-autocompletion](https://marketplace.visualstudio.com/items?itemName=solnurkarim.html-to-css-autocompletion)
-84. [sonarlint-vscode](https://marketplace.visualstudio.com/items?itemName=sonarsource.sonarlint-vscode)
+84. [sonarQube for IDE](https://marketplace.visualstudio.com/items?itemName=sonarsource.sonarlint-vscode)
 85. [autoimport](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
 86. [tailwind-fold](https://marketplace.visualstudio.com/items?itemName=stivo.tailwind-fold)
 87. [code-spell-checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
