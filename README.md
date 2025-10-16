@@ -112,4 +112,4 @@ Exportar extensiones instaladas en vscode a un fichero de texto,
 105. [material-theme](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.material-theme)
 106. [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=zignd.html-css-class-completion)
 107. [multi-command](https://marketplace.visualstudio.com/items?itemName=ryuta46.multi-command)
-108. [POSTCSS Sorting](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-postcss-sorting)
+108. [PostCSS Sorting](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-postcss-sorting)
